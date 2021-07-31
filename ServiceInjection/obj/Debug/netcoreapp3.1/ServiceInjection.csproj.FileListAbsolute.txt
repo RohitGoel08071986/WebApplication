@@ -1,0 +1,16 @@
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\ServiceInjection.deps.json
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\ServiceInjection.dll
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.csprojAssemblyReference.cache
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.AssemblyInfoInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.AssemblyInfo.cs
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\ServiceInjection.pdb
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.csproj.CoreCompileInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.csproj.CopyComplete
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.dll
+C:\Users\rgoel\source\repos\WebApplication1\ServiceInjection\obj\Debug\netcoreapp3.1\ServiceInjection.pdb

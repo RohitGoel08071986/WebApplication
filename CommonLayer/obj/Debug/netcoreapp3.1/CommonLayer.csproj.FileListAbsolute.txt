@@ -1,0 +1,9 @@
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csprojAssemblyReference.cache

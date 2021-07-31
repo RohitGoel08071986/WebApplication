@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxhg5iq53fygKfPR4+H62VoNNXJ7EvFLkmehQyL5A5+fuZEURLuFsuYcpssuNrYWHI7UCIEb3m838JYo3rJisQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgoel\\source\\repos\\WebApplication1\\ServiceInjection\\ServiceInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgoel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\rgoel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

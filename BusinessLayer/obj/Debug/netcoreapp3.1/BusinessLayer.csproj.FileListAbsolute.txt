@@ -1,0 +1,14 @@
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\rgoel\source\repos\WebApplication1\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
